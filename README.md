@@ -3,6 +3,6 @@
 ## Parse Pascal using Kotlin
 
 ### Demo
-You can watch a demonstration of the program work and structure in the following [video](video/Lexer%20demo.mp4).
+You can download and watch a demonstration of the program work and structure in the following [video](video/Lexer%20demo.mp4) or on [YouTube](https://youtu.be/GaT_YAcSY2U).
 
-https://user-images.githubusercontent.com/39382424/235375438-d69238fa-aa66-4669-acab-5de7841549f7.mp4
+
